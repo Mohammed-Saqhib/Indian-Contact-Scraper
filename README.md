@@ -174,11 +174,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-Your Name - your.email@example.com
+Your Name - msaqhib76@gmail.com
 
 Project Link: https://github.com/yourusername/indian-contact-scraper
 
 Don't forget to star the repository if you find it useful!
-
----
-Answer from Perplexity: pplx.ai/share
