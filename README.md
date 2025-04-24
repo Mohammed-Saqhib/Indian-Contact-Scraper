@@ -176,6 +176,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Your Name - msaqhib76@gmail.com
 
-Project Link: https://github.com/yourusername/indian-contact-scraper
+Project Link: https://github.com/Mohammed-Saqhib/Indian-Contact-Scraper
 
 Don't forget to star the repository if you find it useful!
